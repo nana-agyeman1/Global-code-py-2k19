@@ -1,8 +1,8 @@
-#def get_age():
- #   Age = int(input("Enter age : "))
-  #  return Age
+def get_age():
+    Age = int(input("Enter age : "))
+    return Age
 
-#print(get_age())
+print(get_age())
 
 
 
